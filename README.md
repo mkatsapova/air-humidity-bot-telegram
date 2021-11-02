@@ -1,7 +1,7 @@
 # air-humidity-bot-telegram
 Graduation project "Python for beginners" (Beetroot Academy)
 
-@air_humidity_bot in telegram
+@air_humidity_bot -> in telegram
 
 The project came up to make easier the calculation of air humidity into room, according to the readings data of VIT-1 or VIT-2 devices 🌡🌡 
 
